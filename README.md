@@ -9,7 +9,7 @@ This is a simple React application built using `create-react-app`. It uses the `
 - Input field with real-time text display
 
 ## 📁 Project Structure
-
+```bash
 my-app/
 ├── node_modules/
 ├── public/
@@ -19,7 +19,7 @@ my-app/
 │ ├── index.js
 ├── package.json
 └── README.md
-
+```
 
 ## 🛠 Technologies Used
 
